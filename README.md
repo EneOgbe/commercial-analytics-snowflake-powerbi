@@ -1,3 +1,6 @@
+![Snowflake](https://img.shields.io/badge/Snowflake-Analytics-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-yellow)
+
 # Partnership Performance & ROI Analytics for SME Lending
 ## Contents
 - [Overview](#overview)
