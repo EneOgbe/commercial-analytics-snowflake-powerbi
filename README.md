@@ -78,8 +78,17 @@ The Power BI dashboard contains three analytical pages:
    Ongoing monitoring of margin per loan and default rate trends to identify
    early signs of partner performance deterioration or improvement.
 
-Screenshots of each page are available in the `powerbi/dashboard_screenshots`
-folder.
+## Dashboard Preview
+
+### Page 1 — Partner ROI Scorecard
+![Page 1 — Partner ROI Scorecard](powerbi/dashboard_screenshots/page1_partner_roi.png.png)
+
+### Page 2 — Partner Funnel & Risk Quality
+![Page 2 — Partner Funnel & Risk Quality](powerbi/dashboard_screenshots/page2_funnel_risk.png.png)
+
+### Page 3 — Performance Trends & Monitoring
+![Page 3 — Performance Trends & Monitoring](powerbi/dashboard_screenshots/page3_trends_monitoring.png.png)
+
 
 ---
 
