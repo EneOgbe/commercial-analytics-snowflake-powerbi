@@ -1,7 +1,11 @@
-# commercial-analytics-snowflake-powerbi
-Partnership performance and ROI analytics for SME lending using Snowflake and Power BI
-
 # Partnership Performance & ROI Analytics for SME Lending
+## Contents
+- [Overview](#overview)
+- [Data Model](#data-model)
+- [Dashboards](#dashboards)
+- [Dashboard Preview](#dashboard-preview)
+- [Assumptions & Simplifications](#assumptions--simplifications)
+- [Key Insights](#key-insights)
 
 ## Overview
 This project demonstrates how commercial analytics can be used to evaluate
